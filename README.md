@@ -1,11 +1,11 @@
 # tradingAirbus
 
 This is a tyni videogame planned for js13kGames 2024
-![coverGame](https://github.com/krakowdeveloper/tradingAirbus/tradingBus.png)
+![coverGame](https://raw.githubusercontent.com/krakowdeveloper/tradingAirbus/main/tradingBus.png)
 
 ## LittlGame
 
-The source of the game to play is also here:
+The source of the game to play is also here: https://trading-airbus.vercel.app/
 and probably soon in the js13kGames
 
 ## License
