@@ -11,3 +11,10 @@ and probably soon in the js13kGames
 ## License
 
 This game has all rights, please dont use it under your name, neither for commercial purposes.
+
+## Code Sode:
+
+- npm install before everything
+- making compile of: npm run build
+- dev: npm start
+  -Yes ... I could make better the code and refactor some places :)
